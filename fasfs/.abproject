@@ -1,7 +1,6 @@
 {
   "ProjectName": "fasfs",
   "ProjectGuid": "a3a7bc8c-e3b7-426d-bcf0-779f8b288e27",
-  "projectVersion": 1,
   "AppIdentifier": "com.telerik.fasfs",
   "DisplayName": "fasfs",
   "Author": "",
